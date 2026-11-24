@@ -1,0 +1,10 @@
+local/
+.DS_Store
+__pycache__/
+# draw.io desktop backup and temp files
+.*.bkp
+.*.dtmp
+*.py[cod]
+.venv/
+.vscode/
+.idea/

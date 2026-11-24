@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Diagram"
+  short_description: "Schematic figures for CS papers in a fixed house style: editable draw.io source, vector PDF, PNG preview, export-and-lint check"
+  default_prompt: "Use $paper-diagram to draw a single-column (3.33in) figure of <mechanism> for my paper; put it in figures/."
